@@ -26,5 +26,7 @@
  (V) App.config : Used to pass URL / Username PWd <br>
  
  (VI) BrowserSetting : To specify browser <br>
+  
+ (VII) Test Reports Will be found in the path (..WebAppDemoTestFrameWork\WebAppDemoTestFrameWork\TestReports)
  
  
